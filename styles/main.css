@@ -162,7 +162,6 @@ body {
     margin: 0 auto;
     display: grid;
     grid-template-columns: 20rem 30rem;
-    gap: 1rem;
     overflow: hidden;
   }
   .faq__illustration-bg {
